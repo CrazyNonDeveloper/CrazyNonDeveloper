@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @CrazyNonDeveloper
-- 👀 I’m interested in learning how to code as it's probably going to be mandatory to survive in the future.
-- 🌱 I’m currently learning Python, MySql, and DAX.
-- 💞️ I’m looking to collaborate on only small projects that can just help me learn the basics of coding.
-- 📫 How to reach me 'I guess just messages on this platform.'
+Hi, I’m Suhayb.
+
+I’m building Kyrox: an early-stage, AI-first project and operations system.
+
+My work focuses on reducing the time and attention teams lose to complex tools, with an emphasis on clear system boundaries, guarded change, and explicit context.
+
+Most active development happens in private repositories. Public repositories here are used for technical overviews, activity signals, or supporting material.
+
 
 <!---
 CrazyNonDeveloper/CrazyNonDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
